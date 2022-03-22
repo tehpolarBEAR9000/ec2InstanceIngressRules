@@ -7,8 +7,8 @@ Components
 - Python script    
 - BOTO3 Library  
 - AWS APIs  
-  : ec2.instances
-  : ec2.SecurityGroup  
+  : ec2.instances  
+  : ec2.SecurityGroup    
 - Dockerfile      
 
 Output
